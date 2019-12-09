@@ -44,6 +44,10 @@ export default {
 <style scoped>
 h1, h2 {
   font-weight: normal;
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
 }
 ul {
   list-style-type: none;
